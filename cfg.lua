@@ -2,14 +2,13 @@ Config = {}
 
 Config.CheckForUpdates = true
 
-Config.CoreName = 'qb-core' --core name
 Config.StartPedLoc = vector4(884.68, -953.22, 39.21, 359.05)
 
 Config.PedModel = "a_m_m_og_boss_01"
 
 Config.StartPedAnimation = "WORLD_HUMAN_AA_SMOKE"
 
-Config.PoliceJobtype = "leo" --policejob type (not job name)
+Config.PoliceJobtype = "police" --policejob
 
 Config.Cooldown = 30 --in minutes
 

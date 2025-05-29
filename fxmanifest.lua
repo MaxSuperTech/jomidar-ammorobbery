@@ -8,7 +8,7 @@ description  'A multi-framework  Ammo Robbery'
 author       'Hasib'
 
 shared_scripts {
-    'cfg.lua'
+    '@es_extended/imports.lua'
 }
 
 server_scripts {
